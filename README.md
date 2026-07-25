@@ -227,6 +227,8 @@ https://github.com/shubh200405-coder
 
 **Role:** Data Analyst | Dashboard Validation & Quality Assurance
 
+📧 **Email:** dekaliza98@gmail.com
+
 ### Responsibilities
 
 - Validated dashboard visuals and report accuracy.
